@@ -42,3 +42,10 @@ text {
   stroke: #FFFFFF;
   stroke-width: 2px;
 }
+.windows rect{
+  fill: #3E9FD8;
+}
+.windows line {
+  stroke: #E04E27;
+  stroke-width: 4px;
+}
