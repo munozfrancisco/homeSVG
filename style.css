@@ -1,5 +1,7 @@
 svg {
   background-color:#F6F7F7;
+  width: 30%;
+  height: auto;
 }
 .background-circle {
   fill: #068C70;
